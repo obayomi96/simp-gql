@@ -1,0 +1,24 @@
+{
+  "user" : [
+    {
+      "id": 1,
+      "fullname": "martins obayomi",
+      "username": "obayomi"
+    },
+    {
+      "id": 2,
+      "fullname": "chux myk",
+      "username": "chuxmyk"
+    },
+    {
+      "id": 3,
+      "fullname": "miss chiv",
+      "username": "misschiv"
+    },
+    {
+      "id": 4,
+      "fullname": "yellow wolve",
+      "username": "yellowwolf"
+    }
+  ]
+}
